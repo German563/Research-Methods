@@ -77,47 +77,56 @@ Add nutrients to maintain medium fertility:
 - Monitor for contaminants and renew culture medium as necessary.
 
 ## Culture Medium Composition
-
-| **Component**                 | **Concentration (g/L)** | **Component** | **Concentration (g/L)** | **Component**                 | **Concentration (g/L)** |
-|-------------------------------|-------------------------|---------------|-------------------------|-------------------------------|-------------------------|
-| Sodium carbonate (soda ash)   | 5.0                     | Sodium chloride | 5.0                   | Potassium nitrate             | 2.0                     |
-| Sodium bicarbonate            | 1.0                     | Potassium sulfate | 1.0                  | Urea                          | 0.02                    |
-| Monoammonium phosphate        | 0.1                     | Magnesium sulfate (MgSO4·7H2O)| 0.2 | Lime                          | 0.02                    |
-| Ferrous sulfate (FeSO4·7H2O)  | 0.005                   | Component A    | 0.1                   | Component B                   | 0.05                    |
-| Component C                   | 0.3                     | Component D    | 0.2                   | Component E                   | 0.15                    |
-| Component F                   | 0.25                    | Component G    | 0.35                  | Component H                   | 0.4                     |
+| **Component**                  | **Concentration (g/L)** |
+|--------------------------------|-------------------------|
+| Sodium carbonate (soda ash)    | 5.0                     |
+| Sodium chloride                | 5.0                     |
+| Potassium nitrate              | 2.0                     |
+| Sodium bicarbonate             | 1.0                     |
+| Potassium sulfate              | 1.0                     |
+| Urea                           | 0.02                    |
+| Monoammonium phosphate         | 0.1                     |
+| Magnesium sulfate (MgSO4·7H2O) | 0.2                     |
+| Lime                           | 0.02                    |
+| Ferrous sulfate (FeSO4·7H2O)   | 0.005                   |
 
 ## Anions and Cations Composition
-
-| **Ion**      | **Concentration (mg/L)** | **Ion**    | **Concentration (mg/L)** | **Ion**     | **Concentration (mg/L)** |
-|--------------|---------------------------|------------|---------------------------|-------------|---------------------------|
-| Carbonate    | 2800                      | Bicarbonate| 720                       | Nitrate     | 614                       |
-| Phosphate    | 80                        | Sulfate    | 350                       | Chloride    | 3030                      |
-| Sodium       | 4380                      | Potassium  | 642                       | Magnesium   | 10                        |
-| Calcium      | 10                        | Iron       | 0.8                       | Urea        | < 50                      |
-| Component I  | 50                        | Component J| 25                        | Component K | 30                        |
-| Component L  | 45                        | Component M| 35                        | Component N | 40                        |
+| **Ion**      | **Concentration (mg/L)** |
+|--------------|---------------------------|
+| Carbonate    | 2800                      |
+| Bicarbonate  | 720                       |
+| Nitrate      | 614                       |
+| Phosphate    | 80                        |
+| Sulfate      | 350                       |
+| Chloride     | 3030                      |
+| Sodium       | 4380                      |
+| Potassium    | 642                       |
+| Magnesium    | 10                        |
+| Calcium      | 10                        |
+| Iron         | 0.8                       |
+| Urea         | < 50                      |
 
 ## Recommended Feed Formula
-
-| **Nutrient**                   | **Amount per kg of harvested spirulina (dry product)** | **Nutrient**                | **Amount per kg**       | **Nutrient**            | **Amount per kg**       |
-|--------------------------------|---------------------------------------------------------|-----------------------------|-------------------------|-------------------------|-------------------------|
-| Urea                           | 300 g                                                   | Monoammonium phosphate      | 50 g                    | Potassium sulfate       | 30 g (or 40 g if no potassium nitrate is used in culture)|
-| Magnesium sulfate*             | 30 g                                                    | Lime                        | 10 g                    | Iron sulfate*           | 2.5 g                   |
-| Micronutrients solution**      | 5 ml                                                    | Component P                 | 4 ml                    | Component Q             | 3 ml                    |
-| Component R                    | 6 g                                                     | Component S                 | 5 g                     | Component T             | 7 g                     |
-| Component U                    | 8 g                                                     | Component V                 | 9 g                     | Component W             | 10 g                    |
-| Component X                    | 11 g                                                    | Component Y                 | 12 g                    | Component Z             | 13 g                    |
-
+| **Nutrient**                   | **Amount per kg of harvested spirulina (dry product)** |
+|--------------------------------|---------------------------------------------------------|
+| Urea                           | 300 g                                                   |
+| Monoammonium phosphate         | 50 g                                                    |
+| Potassium sulfate              | 30 g (or 40 g if no potassium nitrate is used in culture)|
+| Magnesium sulfate*             | 30 g                                                    |
+| Lime                           | 10 g                                                    |
+| Iron sulfate*                  | 2.5 g                                                   |
+| Micronutrients solution**      | 5 ml     
 *Use crystallized commercial product (e.g., MgSO4·7H2O).  
 **Optional, supplied by Antenna Technology, Geneva.
 
 ## Photos
 
 ![Spirulina Culture in a Pond](./images/Open-pond.png)
+<br>
 *Figure 1: Spirulina culture in a pond with optimal growth conditions.*
 
 ![Harvesting Spirulina](./images/harvest.webp)
+<br>
 *Figure 2: Harvesting spirulina using fine weave cloth.*
 
 ![Drying Spirulina](./images/spirulina-essicazione-bertolini-farm.jpg)
@@ -130,4 +139,4 @@ Add nutrients to maintain medium fertility:
 - [Spirulina as a functional food: A review](https://www.sciencedirect.com/science/article/abs/pii/S0924224411002401)
 
 ## Online Protocol
-- [Trizol reagent](https://assets.thermofisher.com/TFS-Assets/LSG/manuals/trizol_reagent.pdf)
+- [Protocol for the transformation and engineering of edible algae Arthrospira platensis to generate heterologous protein-expressing strains](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9929480/)
